@@ -1,0 +1,8 @@
+[
+  {
+    "name": "نمونه آزمایشی",
+    "url": "https://example.org/rss.xml",
+    "enabled": false,
+    "category": "other"
+  }
+]
